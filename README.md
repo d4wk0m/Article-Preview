@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/d4wk0m/Article-Preview)
-- Live Site URL: [Add live site URL here](https://d4wk0m.github.io/Article-Preview/)
+- [Solution URL](https://github.com/d4wk0m/Article-Preview)
+- [Live Site URL](https://d4wk0m.github.io/Article-Preview/)
 
 ## My process
 
