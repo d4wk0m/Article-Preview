@@ -452,6 +452,10 @@ body{
     .overflow{
         bottom: 4vw;
     }
+
+    .socialsfull{
+        display: none;
+    }
 }
 
 @media only screen and (min-width: 768px){
